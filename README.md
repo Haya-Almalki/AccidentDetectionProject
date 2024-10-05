@@ -1,4 +1,4 @@
-<img src="https://github.com/Haya-Almalki/AccidentDetectionProject/blob/main/Demo/logo.png?raw=true" alt="Logo" width="300" height="240">
+<img src="https://github.com/Haya-Almalki/AccidentDetectionProject/blob/main/Demo/logo.png?raw=true" alt="Logo" width="350" height="240">
 
 
 # Accident Detection Project
