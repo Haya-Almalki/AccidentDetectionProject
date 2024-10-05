@@ -1,4 +1,4 @@
-![برزنتيشن رصد -02](https://github.com/user-attachments/assets/02e4e38c-2afc-46c9-93f5-790f542eb5d5)
+![logo](https://github.com/user-attachments/assets/b8d37f5c-cf8b-4a0d-9e36-2fe162af068e)
 
 
 # Accident Detection Project
