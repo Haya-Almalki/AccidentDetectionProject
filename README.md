@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/b8d37f5c-cf8b-4a0d-9e36-2fe162af068e)
+<img src="https://github.com/Haya-Almalki/AccidentDetectionProject/blob/main/Demo/logo.png?raw=true" alt="Logo" width="300" height="240">
 
 
 # Accident Detection Project
@@ -36,8 +36,9 @@ We surveyed Riyadh residents to understand how accidents affect daily traffic fl
 
 ![image](https://github.com/user-attachments/assets/9a97d309-ec47-462c-a4ee-3c3f32256f68)
 
-## Demo
-You can show our demo [here]().
+## Demo Video
+You can watch the demo video [here](https://github.com/Haya-Almalki/AccidentDetectionProject/blob/main/Demo/Demo.mp4).
+
 
 ## Team Members:
 1. Haya Almalki
